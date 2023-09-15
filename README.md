@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="">
+  <a href="https://github.com/Diab16/Book-Store-API/blob/main/Documentation.md">
     <img src="https://cdn-icons-png.flaticon.com/512/6213/6213702.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -22,7 +22,7 @@
 
 A RESTful API for building a Book Store API application. This API provides the backend functionality required for managing Books, users, authors.
 
-Also, You need to read the [**API Documentation**](https://github.com/MuhammedMagdyy/Todo-List-API/blob/main/Documentation.md).
+Also, You need to read the [**API Documentation**](https://github.com/Diab16/Book-Store-API/blob/main/Documentation.md).
 
 ## Features
 
@@ -58,9 +58,9 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository to your local machine:
 
 ```HTTPS
-https://github.com/
+https://github.com/Diab16/Book-Store-API.git
 ```
 
-2. Install [required packages](https://github.com/MuhammedMagdyy/Todo-List-API/blob/main/package.json) `npm install`
+2. Install [required packages](https://github.com/Diab16/Book-Store-API/blob/main/package.json) `npm install`
 3. Configure the environment variables, such as the database URL.
 4. `npm run build` then `npm run start` or use `npm run dev`.
