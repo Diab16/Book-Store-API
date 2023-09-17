@@ -48,25 +48,31 @@ const authors = [
     firstName: "Robert",
     lastName: "Kiyosaki",
     nationality: "USA",
-    // 65046ddcb763124641a02fd3
   },
   {
     firstName: "Paulo",
     lastName: "Coelho",
     nationality: "Brazil",
-    // 65046e24b763124641a02fd5
   },
   {
     firstName: "Wayne",
     lastName: "Dyer",
     nationality: "USA",
-    // 65046e42b763124641a02fd7
   },
   {
     firstName: "Rolf",
     lastName: "Dobelli",
     nationality: "Switzerland",
-    // 65046e67b763124641a02fd9
+  },
+  {
+    firstName: "Nassim",
+    lastName: "Taleb",
+    nationality: "Lebanon",
+  },
+  {
+    firstName: "Elif",
+    lastName: "Shafak",
+    nationality: "Türkiye",
   },
 ];
 
@@ -74,8 +80,3 @@ module.exports = {
   books,
   authors,
 };
-
-// nasim
-// 65046ff7b763124641a02fde
-// elif
-// 6504704db763124641a02fe0
