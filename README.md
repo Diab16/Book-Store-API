@@ -26,10 +26,12 @@ Also, You need to read the [**API Documentation**](https://github.com/Diab16/Boo
 
 ## Features
 
-- User authentication and authorization.
+- User authentication and authorization using Json web token.
 - Users management (create, read, update, delete).
 - Books management (create, read, update, delete).
 - Authors management (create, read, update, delete).
+- Pagination
+- Search filtering using price
 
 ## Technologies Used
 
